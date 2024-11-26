@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://mandeepairborne.github.io/sam/</loc>
+    </url>
+    <url>
+        <loc>https://mandeepairborne.github.io/sam/blog/</loc>
+    </url>
+    <url>
+        <loc>https://mandeepairborne.github.io/sam/blog/monadic-do-snap/</loc>
+        <lastmod>2020-01-13</lastmod>
+    </url>
+    <url>
+        <loc>https://mandeepairborne.github.io/sam/blog/mt-moon/</loc>
+        <lastmod>2022-04-29</lastmod>
+    </url>
+    <url>
+        <loc>https://mandeepairborne.github.io/sam/blog/point-hyperplane/</loc>
+        <lastmod>2023-05-29</lastmod>
+    </url>
+    <url>
+        <loc>https://mandeepairborne.github.io/sam/inspire/</loc>
+    </url>
+    <url>
+        <loc>https://mandeepairborne.github.io/sam/inspire/point-hyperplane/</loc>
+        <lastmod>2023-05-29</lastmod>
+    </url>
+    <url>
+        <loc>https://mandeepairborne.github.io/sam/research/</loc>
+    </url>
+</urlset>
